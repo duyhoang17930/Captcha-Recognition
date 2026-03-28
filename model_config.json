@@ -66,5 +66,9 @@
     "19": "y",
     "0": ""
   },
-  "best_val_acc": 1.0
+  "best_val_acc": 1.0,
+  "best_test_acc": 0.9906542056074766,
+  "train_samples": 856,
+  "val_samples": 107,
+  "test_samples": 107
 }
